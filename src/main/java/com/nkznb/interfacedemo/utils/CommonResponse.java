@@ -1,4 +1,4 @@
-package utils;
+package com.nkznb.interfacedemo.utils;
 
 
 import java.io.Serializable;
